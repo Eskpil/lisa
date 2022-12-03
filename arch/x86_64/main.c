@@ -7,5 +7,5 @@ void init()
 
     kernel_append_vga(&kernel);    
 
-    kprint(&kernel, "Hello, World!");
+    kprint(&kernel, "Kernel cool!");
 }

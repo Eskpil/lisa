@@ -1,2 +1,3 @@
 build
-isodir
+dist
+targets/**/boot/kernel.bin
